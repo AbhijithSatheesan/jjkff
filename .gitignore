@@ -1,0 +1,8 @@
+db.sqlite3
+*.tar
+*.tar.gz
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
