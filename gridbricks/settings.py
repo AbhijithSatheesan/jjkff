@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%*yhwu#4aq@-6nvg@u4q&&$qk9mj(!yamd+7h1ubd9qtb1mhny
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jjkff-cd063.containers.snapdeploy.app']
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
